@@ -14,7 +14,7 @@ dwm
 
     In its place, include wal's exported colors via:
 
-    #include "/home/<USER>/.cache/wal/colors-wal-dwm.h"
+    #include "/themes/*theme*/colors-wal-dwm.h"
 
 (Replace <USER> with your username.)
 
@@ -37,7 +37,7 @@ st
     Remove the const char *colorname[] array
     Include wal's export colors via:
 
-#include "/home/<USER>/.cache/wal/colors-wal-st.h"
+#include "/themes/*theme*/colors-wal-st.h"
 
 (replace <USER> with your user name)
 
