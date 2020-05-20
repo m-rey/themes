@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/home/cjg/Downloads/freebsd.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#141010",
+        "foreground": "#cec9c7",
+        "cursor": "#cec9c7"
+    },
+    "colors": {
+        "color0": "#141010",
+        "color1": "#72664F",
+        "color2": "#7E7159",
+        "color3": "#9D140F",
+        "color4": "#D03312",
+        "color5": "#C9522A",
+        "color6": "#C88A68",
+        "color7": "#cec9c7",
+        "color8": "#908c8b",
+        "color9": "#72664F",
+        "color10": "#7E7159",
+        "color11": "#9D140F",
+        "color12": "#D03312",
+        "color13": "#C9522A",
+        "color14": "#C88A68",
+        "color15": "#cec9c7"
+    }
+}
